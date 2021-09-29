@@ -4,7 +4,7 @@ A Carousel React component in a Next JS App.
 
 ## Preview
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+Preview the example live on [Vercel](http://nextjs-carousel.vercel.app/):
 
 ## How to run
 
