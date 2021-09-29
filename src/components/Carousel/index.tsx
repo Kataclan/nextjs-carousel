@@ -1,0 +1,7 @@
+export { default as Carousel } from './Carousel'
+export { default as CarouselButton } from './CarouselButton'
+export { default as CarouselControls } from './CarouselControls'
+export { default as CarouselImgBlock } from './CarouselImgBlock'
+export { default as CarouselPaginator } from './CarouselPaginator'
+export { default as CarouselSlide } from './CarouselSlide'
+export { default as CarouselSlider } from './CarouselSlider'
